@@ -1,0 +1,9 @@
+server:
+  port: 8084
+  servlet:
+    context-path: /api
+    # 防止接口返回中文乱码
+    encoding:
+      charset: utf-8
+      enabled: true
+      force: true
