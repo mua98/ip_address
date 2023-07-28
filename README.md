@@ -2,7 +2,7 @@
 ✌️获取客户端IP及地址
 
 ## Demo
-### 演示地址： [api.mua98.top/api/getIp](api.mua98.top/api/getIp)
+### 演示地址： [api.mua98.top/api/getIp](http://api.mua98.top/api/getIp)
 
 ###返回数据：
 ~~~
